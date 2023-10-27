@@ -4,7 +4,7 @@ groups:
 
   - alert: service_down
     expr: up == 0
-    for: 30s
+    for: 1s
     labels:
       severity: critical
     annotations:
