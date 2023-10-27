@@ -3,10 +3,7 @@
 ## whrite your telegram credentials in alertmanager.yml
 replace <bot_token> <chat_id> <message_id> with your credentials
 
-## install docker to be able to run the next commands
-```bash
-install docker
-```
+Install docker to be able to run the next commands
 ## make image build
 ```bash
 docker build -t alertmanager-image -f Dockerfile .
