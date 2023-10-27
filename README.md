@@ -1,4 +1,4 @@
-# alertmanager-telegram-topic-notification-example
+## alertmanager-telegram-topic-notification-example
 
 # whrite your telegram credentials in alertmanager.yml
 replace <bot_token> <chat_id> <message_id> with your credentials
