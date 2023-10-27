@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Taken from: 
+# https://gist.github.com/carinadigital/fd2960fdccd77dbdabc849656c43a070 
+
 name=fooAlert-$RANDOM
 url='http://localhost:9093/api/v1/alerts'
 bold=$(tput bold)

@@ -8,10 +8,10 @@ route:
 receivers:
 - name: 'telegram'
   telegram_configs:
-  - bot_token: 6400828497:AAFlJ_rrNnV2mjt8M_rNh8aSk7WzXUZkwpQ
+  - bot_token: <bot_token>
     api_url: https://api.telegram.org
-    chat_id: -1001927109642
-    reply_to_message_id: 2
+    chat_id: <chat_id>
+    reply_to_message_id: <message_id>
 
 
 
